@@ -1,7 +1,6 @@
-to execute :)
-      
+to execute :)                                                                                                                  
       ![DosyaYolu](https://github.com/hasimakcy/WebScraperforGame/assets/77328571/b4b388d4-c9fb-41f0-acc9-8fa423daf245)
-  In its simplest form, we open CMD and find the file path.
+  In its simplest form, we open CMD and find the file path.                                                                                        
       ![cmdYol](https://github.com/hasimakcy/WebScraperforGame/assets/77328571/143048a2-1e5a-4360-a31f-1aead6e847b3)
 
   Then we can ensure control in Swagger with the 'dotnet watch run' command.
